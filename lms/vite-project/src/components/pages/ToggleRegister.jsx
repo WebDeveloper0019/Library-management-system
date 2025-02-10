@@ -2,7 +2,10 @@ import React from 'react'
 
 const ToggleRegister = () => {
   return (
-    <div>ToggleRegister</div>
+    <div>
+      
+      
+    </div>
   )
 }
 
